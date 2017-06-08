@@ -1,4 +1,4 @@
-# DrugsReviewsCorpus 
+# Drugs Reviews Corpus 
 
 Full corpus release including:
 
