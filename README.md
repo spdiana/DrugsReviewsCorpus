@@ -10,7 +10,7 @@ Full corpus release including:
 2) Manual Gold Standard annotations
 
    The Gold standard is a opinions pairs list manually labeled. Each opinion pair
-   is labeled as Condition (Cost), Side Effects (ADR), Cost (C), Dosage (D) or Effectiveness (E).
+   is labeled as Condition (C), Side Effects (ADR), Cost (Cost), Dosage (D) or Effectiveness (E).
 
 
 If you use this corpus, please cite: 
