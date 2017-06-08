@@ -3,11 +3,13 @@
 Full corpus release including:
 
 1) Drugs Reviews
+
    Three drug review datasets manually collected from the website drugs.com 
    regarding to the clinical conditions: ADHD, AIDS and Anxiety.
    
 2) Manual Gold Standard annotations
-   The Gold standard is a a opinions pairs list manually labeled. Each opinion pair
+
+   The Gold standard is a opinions pairs list manually labeled. Each opinion pair
    is labeled as Condition (C), Side Effects (ADR), Cost (C), Dosage (D) or Effectiveness (E).
 
 
