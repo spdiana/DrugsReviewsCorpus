@@ -16,3 +16,5 @@ Full corpus release including:
 If you use this corpus, please cite: 
 
 CAVALCANTI, D.; PRUDENCIO, R. Unsupervised Aspect Term Extraction in Online Drugs Reviews. The 30th International Florida Artificial Intelligence Research Society Conference, 2017.
+
+CAVALCANTI, D.; PRUDENCIO, R. Aspect-based Opinion Mining in Drug Reviews. The 18th EPIA Conference on Artificial, 2017.
